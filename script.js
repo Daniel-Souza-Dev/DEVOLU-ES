@@ -3,7 +3,7 @@ const fileInput = document.querySelector("#saleSummary");
 const fileName = document.querySelector("#fileName");
 const successMessage = document.querySelector("#successMessage");
 
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwmoNbPx4EGV7yszEIYkxdtWByfmCLbdtey3AnpEdzkyPLdzxDeua8mTfsj6Z5aAyYG6g/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz8REEE97zQP31Ersr3kUquHpe61A4G5S_hnvUWUAsRtHkejCnc277WA7B1TcDHMjVb/exec";
 const GOOGLE_SCRIPT_PLACEHOLDER = "COLE_AQUI_A_URL_DO_SEU_WEB_APP";
 const MAX_FILE_SIZE_MB = 10;
 const MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024;
